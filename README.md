@@ -9,6 +9,8 @@ cd SE_labs/Converter
 docker build -t [container-image-name] -f Converter/Dockerfile .
 docker run [container-image-name] [args]
 ```
+**OR** you may clone/download a repo and then run ***install.bat*** script, which is in the main folder.
+
 ## Usage
 --------
 As listed above, you should run docker with necessary parameters. These arguments are as follows:
